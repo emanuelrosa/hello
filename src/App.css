@@ -4,13 +4,11 @@
   position: relative;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App > h1::selection,
+.App > h2::selection,
+.App a::selection {
+  background-color: #8e44ad;
+  color: white;
 }
 
 svg {
