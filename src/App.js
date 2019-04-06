@@ -11,12 +11,12 @@ class App extends Component {
 
         <nav>
           <ul>
-          <li>
-            <a href="https://github.com/#">Github</a>
-          </li>
-          <li>
-            <a href="https://twitter.com/#">Twitter</a>
-          </li>
+            <li>
+              <a href="https://github.com/#">Github</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/#">Twitter</a>
+            </li>
           </ul>
         </nav>
 
