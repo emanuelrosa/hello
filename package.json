@@ -39,7 +39,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "coveralls": "^3.0.3",
+    "coveralls": "^3.0.4",
     "gh-pages": "^2.0.1"
   }
 }
